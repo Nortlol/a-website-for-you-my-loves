@@ -1,0 +1,12 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(111, 49, 111);
+    text-align: center;
+
+}
+.drawing{
+    width: 400px;
+    border-radius: 5px;
+    border: 3px;
+    border-color: black;
+}
